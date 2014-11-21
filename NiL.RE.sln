@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiL.RE", "NiL.RE\NiL.RE.csproj", "{C8452CBF-1103-4894-B469-F6120B6AB30A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiL.RETest", "NiL.RETest\NiL.RETest.csproj", "{30A58A60-3DFC-4290-9DEB-E901025CDE3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,10 @@ Global
 		{C8452CBF-1103-4894-B469-F6120B6AB30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8452CBF-1103-4894-B469-F6120B6AB30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8452CBF-1103-4894-B469-F6120B6AB30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A58A60-3DFC-4290-9DEB-E901025CDE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A58A60-3DFC-4290-9DEB-E901025CDE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A58A60-3DFC-4290-9DEB-E901025CDE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A58A60-3DFC-4290-9DEB-E901025CDE3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
